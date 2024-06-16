@@ -1,8 +1,8 @@
-version: 1.3.6
+version: 1.3.9
 files:
-  - url: LeadMe Setup 1.3.6.exe
-    sha512: qD4Pbplq8IyxDzr7slstEBMdwGvo2dQknl++5bzzCUr77cRxTw/Q2ASnNmo/lsh2mwG7MEmlXXPTSYigwB4/lw==
-    size: 73298200
-path: LeadMe Setup 1.3.6.exe
-sha512: qD4Pbplq8IyxDzr7slstEBMdwGvo2dQknl++5bzzCUr77cRxTw/Q2ASnNmo/lsh2mwG7MEmlXXPTSYigwB4/lw==
-releaseDate: '2024-06-03T04:38:40.092Z'
+  - url: LeadMe Setup 1.3.9.exe
+    sha512: ceg62lGQN0Ll62e/1FWNrFPPzlVoC5HadsX/iM/fFt41QgezugYC0k0r9SWq4MAmCWQHq9JRUkcUzchAdDcEGw==
+    size: 73301696
+path: LeadMe Setup 1.3.9.exe
+sha512: ceg62lGQN0Ll62e/1FWNrFPPzlVoC5HadsX/iM/fFt41QgezugYC0k0r9SWq4MAmCWQHq9JRUkcUzchAdDcEGw==
+releaseDate: '2024-06-16T23:03:15.766Z'
